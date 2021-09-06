@@ -1,0 +1,552 @@
+[25-Apr-2021 10:36:46 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[25-Apr-2021 10:36:47 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[25-Apr-2021 11:19:19 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[25-Apr-2021 11:19:20 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[25-Apr-2021 11:55:49 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[25-Apr-2021 11:55:51 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[25-Apr-2021 12:34:42 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[25-Apr-2021 12:34:44 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[25-Apr-2021 13:11:47 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[25-Apr-2021 13:11:49 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[25-Apr-2021 13:53:48 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[25-Apr-2021 13:53:50 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[25-Apr-2021 14:32:48 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[25-Apr-2021 14:32:49 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[25-Apr-2021 15:11:51 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[25-Apr-2021 15:11:53 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[25-Apr-2021 15:55:07 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[25-Apr-2021 15:55:09 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[25-Apr-2021 16:34:34 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[25-Apr-2021 16:34:36 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[25-Apr-2021 19:57:49 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[25-Apr-2021 19:57:51 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[26-Apr-2021 18:36:57 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[26-Apr-2021 18:36:58 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[26-Apr-2021 19:15:24 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[26-Apr-2021 19:15:26 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[26-Apr-2021 20:11:51 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[26-Apr-2021 20:11:53 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[26-Apr-2021 22:20:17 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[26-Apr-2021 22:20:18 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[26-Apr-2021 22:57:35 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[26-Apr-2021 22:57:37 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[27-Apr-2021 00:16:11 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[27-Apr-2021 00:16:11 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[27-Apr-2021 00:16:11 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[27-Apr-2021 00:16:11 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[27-Apr-2021 00:16:11 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[27-Apr-2021 00:16:12 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[27-Apr-2021 00:16:12 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[27-Apr-2021 00:22:17 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[27-Apr-2021 00:22:19 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[27-Apr-2021 01:51:45 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[27-Apr-2021 01:51:46 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[27-Apr-2021 02:24:34 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[27-Apr-2021 02:24:36 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[27-Apr-2021 10:42:55 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[27-Apr-2021 17:38:17 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[27-Apr-2021 17:38:19 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[27-Apr-2021 18:13:54 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[27-Apr-2021 18:13:56 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[27-Apr-2021 18:54:29 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[27-Apr-2021 18:54:30 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[27-Apr-2021 19:33:10 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[27-Apr-2021 19:33:12 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[27-Apr-2021 20:20:05 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[27-Apr-2021 20:20:07 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[27-Apr-2021 21:11:19 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[27-Apr-2021 21:11:21 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[27-Apr-2021 22:10:31 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[27-Apr-2021 22:10:33 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[27-Apr-2021 22:42:32 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[27-Apr-2021 22:42:33 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[27-Apr-2021 23:39:07 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[27-Apr-2021 23:39:09 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[28-Apr-2021 00:34:45 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[28-Apr-2021 00:34:47 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[28-Apr-2021 01:28:07 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[28-Apr-2021 01:28:09 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[28-Apr-2021 02:05:15 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[28-Apr-2021 02:05:17 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[28-Apr-2021 03:25:19 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[28-Apr-2021 03:25:21 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[28-Apr-2021 04:28:26 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[28-Apr-2021 04:28:28 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[28-Apr-2021 05:16:50 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[28-Apr-2021 05:16:52 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[28-Apr-2021 08:21:29 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[28-Apr-2021 08:21:30 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[28-Apr-2021 08:54:15 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[28-Apr-2021 08:54:16 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[28-Apr-2021 09:52:21 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[28-Apr-2021 09:52:22 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[28-Apr-2021 12:51:26 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[28-Apr-2021 12:51:28 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[28-Apr-2021 14:18:13 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[28-Apr-2021 14:18:14 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[28-Apr-2021 14:58:22 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[28-Apr-2021 14:58:23 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[28-Apr-2021 16:47:20 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[28-Apr-2021 16:47:22 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[28-Apr-2021 17:24:40 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[28-Apr-2021 17:24:41 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[28-Apr-2021 18:12:52 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[28-Apr-2021 18:12:54 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[28-Apr-2021 18:51:33 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[28-Apr-2021 18:51:35 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[28-Apr-2021 22:31:23 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[28-Apr-2021 22:31:24 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[28-Apr-2021 23:08:45 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[28-Apr-2021 23:08:47 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[28-Apr-2021 23:41:33 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[28-Apr-2021 23:41:34 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[29-Apr-2021 00:22:12 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[29-Apr-2021 00:22:13 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[29-Apr-2021 01:06:21 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[29-Apr-2021 01:06:23 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[29-Apr-2021 01:44:25 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[29-Apr-2021 01:44:26 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[29-Apr-2021 02:27:27 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[29-Apr-2021 02:27:28 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[29-Apr-2021 03:02:31 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[29-Apr-2021 03:02:33 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[29-Apr-2021 03:42:33 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[29-Apr-2021 03:42:35 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[29-Apr-2021 04:23:07 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[29-Apr-2021 04:23:09 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[29-Apr-2021 05:02:30 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[29-Apr-2021 05:02:32 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[29-Apr-2021 08:54:30 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[29-Apr-2021 08:54:31 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[29-Apr-2021 09:33:45 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[29-Apr-2021 09:33:47 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[29-Apr-2021 10:52:41 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[29-Apr-2021 10:52:43 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[29-Apr-2021 11:40:25 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[29-Apr-2021 11:40:27 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[29-Apr-2021 12:14:43 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[29-Apr-2021 12:14:45 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[29-Apr-2021 12:52:48 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[29-Apr-2021 12:52:49 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[29-Apr-2021 13:37:20 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[29-Apr-2021 13:37:22 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[29-Apr-2021 14:13:28 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[29-Apr-2021 14:13:30 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[29-Apr-2021 14:52:34 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[29-Apr-2021 14:52:36 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[29-Apr-2021 15:32:54 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14
+[29-Apr-2021 15:32:56 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/bootstrap/app.php on line 14

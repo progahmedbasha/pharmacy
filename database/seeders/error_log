@@ -1,0 +1,456 @@
+[25-Apr-2021 10:51:39 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[25-Apr-2021 10:51:41 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[25-Apr-2021 11:34:54 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[25-Apr-2021 11:34:55 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[25-Apr-2021 12:16:16 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[25-Apr-2021 12:16:18 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[25-Apr-2021 12:50:55 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[25-Apr-2021 12:50:56 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[25-Apr-2021 13:26:43 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[25-Apr-2021 13:26:44 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[25-Apr-2021 15:26:36 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[25-Apr-2021 15:26:38 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[25-Apr-2021 16:49:15 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[25-Apr-2021 16:49:17 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[25-Apr-2021 20:13:59 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[25-Apr-2021 20:14:01 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[26-Apr-2021 18:51:19 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[26-Apr-2021 18:51:21 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[26-Apr-2021 19:34:57 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[26-Apr-2021 19:34:58 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[26-Apr-2021 20:27:09 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[26-Apr-2021 20:27:11 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[26-Apr-2021 22:35:02 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[26-Apr-2021 22:35:04 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[26-Apr-2021 23:14:13 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[26-Apr-2021 23:14:15 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[27-Apr-2021 00:36:50 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[27-Apr-2021 00:36:52 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[27-Apr-2021 02:06:44 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[27-Apr-2021 02:06:46 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[27-Apr-2021 02:45:27 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[27-Apr-2021 02:45:28 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[27-Apr-2021 17:54:16 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[27-Apr-2021 17:54:18 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[27-Apr-2021 18:29:53 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[27-Apr-2021 18:29:54 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[27-Apr-2021 19:10:16 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[27-Apr-2021 19:10:17 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[27-Apr-2021 19:48:08 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[27-Apr-2021 19:48:10 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[27-Apr-2021 20:35:06 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[27-Apr-2021 20:35:08 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[27-Apr-2021 21:25:39 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[27-Apr-2021 21:25:41 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[27-Apr-2021 22:26:05 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[27-Apr-2021 22:26:07 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[27-Apr-2021 22:57:22 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[27-Apr-2021 22:57:24 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[27-Apr-2021 23:53:29 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[27-Apr-2021 23:53:30 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[28-Apr-2021 00:50:17 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[28-Apr-2021 00:50:19 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[28-Apr-2021 01:43:35 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[28-Apr-2021 01:43:36 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[28-Apr-2021 03:40:12 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[28-Apr-2021 03:40:14 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[28-Apr-2021 04:44:03 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[28-Apr-2021 04:44:05 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[28-Apr-2021 05:32:27 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[28-Apr-2021 05:32:29 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[28-Apr-2021 08:37:18 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[28-Apr-2021 08:37:20 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[28-Apr-2021 09:11:46 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[28-Apr-2021 09:11:47 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[28-Apr-2021 10:08:46 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[28-Apr-2021 10:08:48 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[28-Apr-2021 13:08:53 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[28-Apr-2021 13:08:54 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[28-Apr-2021 14:34:09 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[28-Apr-2021 14:34:11 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[28-Apr-2021 15:13:56 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[28-Apr-2021 15:13:58 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[28-Apr-2021 17:02:29 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[28-Apr-2021 17:02:31 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[28-Apr-2021 17:39:55 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[28-Apr-2021 17:39:57 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[28-Apr-2021 19:07:20 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[28-Apr-2021 19:07:21 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[28-Apr-2021 22:45:04 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[28-Apr-2021 22:45:06 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[28-Apr-2021 23:24:17 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[28-Apr-2021 23:24:19 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[28-Apr-2021 23:57:50 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[28-Apr-2021 23:57:52 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[29-Apr-2021 00:37:09 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[29-Apr-2021 00:37:10 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[29-Apr-2021 01:23:00 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[29-Apr-2021 01:23:02 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[29-Apr-2021 01:59:56 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[29-Apr-2021 01:59:58 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[29-Apr-2021 02:44:20 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[29-Apr-2021 02:44:21 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[29-Apr-2021 03:20:29 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[29-Apr-2021 03:20:31 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[29-Apr-2021 05:18:03 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[29-Apr-2021 05:18:05 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[29-Apr-2021 09:14:21 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[29-Apr-2021 09:14:23 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[29-Apr-2021 09:53:47 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[29-Apr-2021 09:53:48 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[29-Apr-2021 11:12:15 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[29-Apr-2021 11:12:17 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[29-Apr-2021 11:58:36 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[29-Apr-2021 11:58:38 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[29-Apr-2021 12:40:11 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[29-Apr-2021 12:40:13 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[29-Apr-2021 13:13:56 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[29-Apr-2021 13:13:57 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[29-Apr-2021 13:57:10 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[29-Apr-2021 13:57:12 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[29-Apr-2021 14:41:01 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[29-Apr-2021 14:41:03 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[29-Apr-2021 15:53:20 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7
+[29-Apr-2021 15:53:21 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/database/seeders/DatabaseSeeder.php on line 7

@@ -1,0 +1,408 @@
+[29-Apr-2021 09:49:44 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/AdminCloseReportTodayController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/AdminCloseReportTodayController.php on line 15
+[29-Apr-2021 09:49:45 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/AdminCloseReportTodayController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/AdminCloseReportTodayController.php on line 15
+[29-Apr-2021 09:49:47 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/AdminProfitController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/AdminProfitController.php on line 16
+[29-Apr-2021 09:49:49 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/AdminProfitController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/AdminProfitController.php on line 16
+[29-Apr-2021 09:49:51 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/BranchesController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/BranchesController.php on line 11
+[29-Apr-2021 09:49:54 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/BranchesController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/BranchesController.php on line 11
+[29-Apr-2021 09:49:55 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/Controller.php on line 10
+[29-Apr-2021 09:49:58 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/Controller.php on line 10
+[29-Apr-2021 09:50:00 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/CustomerController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/CustomerController.php on line 16
+[29-Apr-2021 09:50:02 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/CustomerController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/CustomerController.php on line 16
+[29-Apr-2021 09:50:03 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/DoctorController.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/DoctorController.php on line 17
+[29-Apr-2021 09:50:04 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/DoctorController.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/DoctorController.php on line 17
+[29-Apr-2021 09:50:06 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/EmployeeController.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/EmployeeController.php on line 21
+[29-Apr-2021 09:50:09 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/EmployeeController.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/EmployeeController.php on line 21
+[29-Apr-2021 09:50:11 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/FinancialController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/FinancialController.php on line 14
+[29-Apr-2021 09:50:12 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/FinancialController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/FinancialController.php on line 14
+[29-Apr-2021 09:50:13 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/GeneralSettingController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/GeneralSettingController.php on line 9
+[29-Apr-2021 09:50:14 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/GeneralSettingController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/GeneralSettingController.php on line 9
+[29-Apr-2021 09:50:15 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/HomeController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/HomeController.php on line 9
+[29-Apr-2021 09:50:16 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/HomeController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/HomeController.php on line 9
+[29-Apr-2021 09:50:17 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/InsuranceCompanyController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/InsuranceCompanyController.php on line 13
+[29-Apr-2021 09:50:19 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/InsuranceCompanyController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/InsuranceCompanyController.php on line 13
+[29-Apr-2021 09:50:20 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/ManageDoctorController.php:29
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/ManageDoctorController.php on line 29
+[29-Apr-2021 09:50:21 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/ManageDoctorController.php:29
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/ManageDoctorController.php on line 29
+[29-Apr-2021 09:50:23 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/PriceListController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/PriceListController.php on line 14
+[29-Apr-2021 09:50:26 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/PriceListController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/PriceListController.php on line 14
+[29-Apr-2021 09:50:28 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/PurchasesController.php:28
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/PurchasesController.php on line 28
+[29-Apr-2021 09:50:31 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/PurchasesController.php:28
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/PurchasesController.php on line 28
+[29-Apr-2021 09:50:33 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/SalesController.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/SalesController.php on line 35
+[29-Apr-2021 09:50:34 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/SalesController.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/SalesController.php on line 35
+[29-Apr-2021 09:50:35 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/StoreController.php:20
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/StoreController.php on line 20
+[29-Apr-2021 09:50:37 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/StoreController.php:20
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/StoreController.php on line 20
+[29-Apr-2021 09:50:38 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/SupplierController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/SupplierController.php on line 13
+[29-Apr-2021 09:50:41 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/SupplierController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/SupplierController.php on line 13
+[29-Apr-2021 10:36:03 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/AdminCloseReportTodayController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/AdminCloseReportTodayController.php on line 15
+[29-Apr-2021 10:36:05 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/AdminCloseReportTodayController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/AdminCloseReportTodayController.php on line 15
+[29-Apr-2021 10:36:05 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/AdminProfitController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/AdminProfitController.php on line 16
+[29-Apr-2021 10:36:07 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/AdminProfitController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/AdminProfitController.php on line 16
+[29-Apr-2021 10:36:09 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/BranchesController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/BranchesController.php on line 11
+[29-Apr-2021 10:36:12 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/BranchesController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/BranchesController.php on line 11
+[29-Apr-2021 10:36:13 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/Controller.php on line 10
+[29-Apr-2021 10:36:16 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/Controller.php on line 10
+[29-Apr-2021 10:36:17 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/CustomerController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/CustomerController.php on line 16
+[29-Apr-2021 10:36:18 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/CustomerController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/CustomerController.php on line 16
+[29-Apr-2021 10:36:20 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/DoctorController.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/DoctorController.php on line 17
+[29-Apr-2021 10:36:22 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/DoctorController.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/DoctorController.php on line 17
+[29-Apr-2021 10:36:23 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/EmployeeController.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/EmployeeController.php on line 21
+[29-Apr-2021 10:36:24 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/EmployeeController.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/EmployeeController.php on line 21
+[29-Apr-2021 10:36:26 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/FinancialController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/FinancialController.php on line 14
+[29-Apr-2021 10:36:28 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/FinancialController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/FinancialController.php on line 14
+[29-Apr-2021 10:36:29 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/GeneralSettingController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/GeneralSettingController.php on line 9
+[29-Apr-2021 10:36:32 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/GeneralSettingController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/GeneralSettingController.php on line 9
+[29-Apr-2021 10:36:33 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/HomeController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/HomeController.php on line 9
+[29-Apr-2021 10:36:36 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/HomeController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/HomeController.php on line 9
+[29-Apr-2021 10:36:38 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/InsuranceCompanyController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/InsuranceCompanyController.php on line 13
+[29-Apr-2021 10:36:40 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/InsuranceCompanyController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/InsuranceCompanyController.php on line 13
+[29-Apr-2021 10:36:42 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/ManageDoctorController.php:29
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/ManageDoctorController.php on line 29
+[29-Apr-2021 10:36:44 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/ManageDoctorController.php:29
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/ManageDoctorController.php on line 29
+[29-Apr-2021 10:36:45 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/PriceListController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/PriceListController.php on line 14
+[29-Apr-2021 10:36:47 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/PriceListController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/PriceListController.php on line 14
+[29-Apr-2021 10:36:47 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/PurchasesController.php:28
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/PurchasesController.php on line 28
+[29-Apr-2021 10:36:49 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/PurchasesController.php:28
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/PurchasesController.php on line 28
+[29-Apr-2021 10:36:50 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/SalesController.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/SalesController.php on line 35
+[29-Apr-2021 10:36:52 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/SalesController.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/SalesController.php on line 35
+[29-Apr-2021 10:36:53 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/StoreController.php:20
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/StoreController.php on line 20
+[29-Apr-2021 10:36:56 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/StoreController.php:20
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/StoreController.php on line 20
+[29-Apr-2021 10:36:57 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/SupplierController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/SupplierController.php on line 13
+[29-Apr-2021 10:36:58 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/SupplierController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/SupplierController.php on line 13
+[29-Apr-2021 17:10:09 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/AdminCloseReportTodayController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/AdminCloseReportTodayController.php on line 15
+[29-Apr-2021 17:10:10 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/AdminCloseReportTodayController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/AdminCloseReportTodayController.php on line 15
+[29-Apr-2021 17:10:12 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/AdminProfitController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/AdminProfitController.php on line 16
+[29-Apr-2021 17:10:15 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/AdminProfitController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/AdminProfitController.php on line 16
+[29-Apr-2021 17:10:16 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/BranchesController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/BranchesController.php on line 11
+[29-Apr-2021 17:10:19 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/BranchesController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/BranchesController.php on line 11
+[29-Apr-2021 17:10:20 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/Controller.php on line 10
+[29-Apr-2021 17:10:23 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/Controller.php on line 10
+[29-Apr-2021 17:10:23 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/CustomerController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/CustomerController.php on line 16
+[29-Apr-2021 17:10:25 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/CustomerController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/CustomerController.php on line 16
+[29-Apr-2021 17:10:25 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/DoctorController.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/DoctorController.php on line 17
+[29-Apr-2021 17:10:27 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/DoctorController.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/DoctorController.php on line 17
+[29-Apr-2021 17:10:28 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/EmployeeController.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/EmployeeController.php on line 21
+[29-Apr-2021 17:10:31 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/EmployeeController.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/EmployeeController.php on line 21
+[29-Apr-2021 17:10:32 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/FinancialController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/FinancialController.php on line 14
+[29-Apr-2021 17:10:34 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/FinancialController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/FinancialController.php on line 14
+[29-Apr-2021 17:10:34 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/GeneralSettingController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/GeneralSettingController.php on line 9
+[29-Apr-2021 17:10:36 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/GeneralSettingController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/GeneralSettingController.php on line 9
+[29-Apr-2021 17:10:36 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/HomeController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/HomeController.php on line 9
+[29-Apr-2021 17:10:38 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/HomeController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/HomeController.php on line 9
+[29-Apr-2021 17:10:39 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/InsuranceCompanyController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/InsuranceCompanyController.php on line 13
+[29-Apr-2021 17:10:40 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/InsuranceCompanyController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/InsuranceCompanyController.php on line 13
+[29-Apr-2021 17:10:41 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/ManageDoctorController.php:29
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/ManageDoctorController.php on line 29
+[29-Apr-2021 17:10:42 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/ManageDoctorController.php:29
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/ManageDoctorController.php on line 29
+[29-Apr-2021 17:10:43 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/PriceListController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/PriceListController.php on line 14
+[29-Apr-2021 17:10:44 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/PriceListController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/PriceListController.php on line 14
+[29-Apr-2021 17:10:46 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/PurchasesController.php:28
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/PurchasesController.php on line 28
+[29-Apr-2021 17:10:49 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/PurchasesController.php:28
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/PurchasesController.php on line 28
+[29-Apr-2021 17:10:50 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/SalesController.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/SalesController.php on line 35
+[29-Apr-2021 17:10:51 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/SalesController.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/SalesController.php on line 35
+[29-Apr-2021 17:10:52 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/StoreController.php:20
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/StoreController.php on line 20
+[29-Apr-2021 17:10:53 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/StoreController.php:20
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/StoreController.php on line 20
+[29-Apr-2021 17:10:55 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/SupplierController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/SupplierController.php on line 13
+[29-Apr-2021 17:10:57 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/SupplierController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Controllers/SupplierController.php on line 13

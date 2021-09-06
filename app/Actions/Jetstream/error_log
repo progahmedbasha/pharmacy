@@ -1,0 +1,24 @@
+[29-Apr-2021 09:49:33 America/Chicago] PHP Fatal error:  Uncaught Error: Interface 'Laravel\Jetstream\Contracts\DeletesUsers' not found in /home2/almotaweron/public_html/pharmacy/app/Actions/Jetstream/DeleteUser.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Actions/Jetstream/DeleteUser.php on line 7
+[29-Apr-2021 09:49:35 America/Chicago] PHP Fatal error:  Uncaught Error: Interface 'Laravel\Jetstream\Contracts\DeletesUsers' not found in /home2/almotaweron/public_html/pharmacy/app/Actions/Jetstream/DeleteUser.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Actions/Jetstream/DeleteUser.php on line 7
+[29-Apr-2021 10:35:50 America/Chicago] PHP Fatal error:  Uncaught Error: Interface 'Laravel\Jetstream\Contracts\DeletesUsers' not found in /home2/almotaweron/public_html/pharmacy/app/Actions/Jetstream/DeleteUser.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Actions/Jetstream/DeleteUser.php on line 7
+[29-Apr-2021 10:35:52 America/Chicago] PHP Fatal error:  Uncaught Error: Interface 'Laravel\Jetstream\Contracts\DeletesUsers' not found in /home2/almotaweron/public_html/pharmacy/app/Actions/Jetstream/DeleteUser.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Actions/Jetstream/DeleteUser.php on line 7
+[29-Apr-2021 17:09:56 America/Chicago] PHP Fatal error:  Uncaught Error: Interface 'Laravel\Jetstream\Contracts\DeletesUsers' not found in /home2/almotaweron/public_html/pharmacy/app/Actions/Jetstream/DeleteUser.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Actions/Jetstream/DeleteUser.php on line 7
+[29-Apr-2021 17:09:58 America/Chicago] PHP Fatal error:  Uncaught Error: Interface 'Laravel\Jetstream\Contracts\DeletesUsers' not found in /home2/almotaweron/public_html/pharmacy/app/Actions/Jetstream/DeleteUser.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Actions/Jetstream/DeleteUser.php on line 7

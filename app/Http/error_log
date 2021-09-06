@@ -1,0 +1,88 @@
+[29-Apr-2021 09:06:19 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Kernel.php on line 7
+[29-Apr-2021 09:06:21 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Kernel.php on line 7
+[29-Apr-2021 09:45:30 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Kernel.php on line 7
+[29-Apr-2021 09:45:32 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Kernel.php on line 7
+[29-Apr-2021 11:04:00 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Kernel.php on line 7
+[29-Apr-2021 11:04:02 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Kernel.php on line 7
+[29-Apr-2021 11:51:26 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Kernel.php on line 7
+[29-Apr-2021 11:51:28 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Kernel.php on line 7
+[29-Apr-2021 12:30:27 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Kernel.php on line 7
+[29-Apr-2021 12:30:29 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Kernel.php on line 7
+[29-Apr-2021 13:05:33 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Kernel.php on line 7
+[29-Apr-2021 13:05:35 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Kernel.php on line 7
+[29-Apr-2021 13:49:08 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Kernel.php on line 7
+[29-Apr-2021 13:49:09 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Kernel.php on line 7
+[29-Apr-2021 14:31:24 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Kernel.php on line 7
+[29-Apr-2021 14:31:27 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Kernel.php on line 7
+[29-Apr-2021 15:45:32 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Kernel.php on line 7
+[29-Apr-2021 15:45:33 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Kernel.php on line 7
+[29-Apr-2021 16:25:48 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Kernel.php on line 7
+[29-Apr-2021 16:25:50 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Kernel.php on line 7
+[29-Apr-2021 17:05:02 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Kernel.php on line 7
+[29-Apr-2021 17:05:03 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Kernel.php on line 7

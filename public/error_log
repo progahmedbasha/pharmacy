@@ -1,0 +1,2 @@
+[20-Feb-2021 08:28:24 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 7.2.34. in /home1/technqp6/public_html/systemph/vendor/composer/platform_check.php on line 24
+[01-Jun-2021 09:27:48 America/Boise] PHP Warning:  symlink(): No such file or directory in /home1/technqp6/public_html/systemph/public/symlink.php on line 17

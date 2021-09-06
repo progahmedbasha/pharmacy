@@ -1,0 +1,96 @@
+[29-Apr-2021 09:49:20 America/Chicago] PHP Fatal error:  Uncaught Error: Interface 'Laravel\Fortify\Contracts\CreatesNewUsers' not found in /home2/almotaweron/public_html/pharmacy/app/Actions/Fortify/CreateNewUser.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Actions/Fortify/CreateNewUser.php on line 11
+[29-Apr-2021 09:49:22 America/Chicago] PHP Fatal error:  Uncaught Error: Interface 'Laravel\Fortify\Contracts\CreatesNewUsers' not found in /home2/almotaweron/public_html/pharmacy/app/Actions/Fortify/CreateNewUser.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Actions/Fortify/CreateNewUser.php on line 11
+[29-Apr-2021 09:49:25 America/Chicago] PHP Fatal error:  Uncaught Error: Interface 'Laravel\Fortify\Contracts\ResetsUserPasswords' not found in /home2/almotaweron/public_html/pharmacy/app/Actions/Fortify/ResetUserPassword.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Actions/Fortify/ResetUserPassword.php on line 9
+[29-Apr-2021 09:49:26 America/Chicago] PHP Fatal error:  Uncaught Error: Interface 'Laravel\Fortify\Contracts\ResetsUserPasswords' not found in /home2/almotaweron/public_html/pharmacy/app/Actions/Fortify/ResetUserPassword.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Actions/Fortify/ResetUserPassword.php on line 9
+[29-Apr-2021 09:49:27 America/Chicago] PHP Fatal error:  Uncaught Error: Interface 'Laravel\Fortify\Contracts\UpdatesUserPasswords' not found in /home2/almotaweron/public_html/pharmacy/app/Actions/Fortify/UpdateUserPassword.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Actions/Fortify/UpdateUserPassword.php on line 9
+[29-Apr-2021 09:49:28 America/Chicago] PHP Fatal error:  Uncaught Error: Interface 'Laravel\Fortify\Contracts\UpdatesUserPasswords' not found in /home2/almotaweron/public_html/pharmacy/app/Actions/Fortify/UpdateUserPassword.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Actions/Fortify/UpdateUserPassword.php on line 9
+[29-Apr-2021 09:49:29 America/Chicago] PHP Fatal error:  Uncaught Error: Interface 'Laravel\Fortify\Contracts\UpdatesUserProfileInformation' not found in /home2/almotaweron/public_html/pharmacy/app/Actions/Fortify/UpdateUserProfileInformation.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Actions/Fortify/UpdateUserProfileInformation.php on line 10
+[29-Apr-2021 09:49:31 America/Chicago] PHP Fatal error:  Uncaught Error: Interface 'Laravel\Fortify\Contracts\UpdatesUserProfileInformation' not found in /home2/almotaweron/public_html/pharmacy/app/Actions/Fortify/UpdateUserProfileInformation.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Actions/Fortify/UpdateUserProfileInformation.php on line 10
+[29-Apr-2021 10:35:35 America/Chicago] PHP Fatal error:  Uncaught Error: Interface 'Laravel\Fortify\Contracts\CreatesNewUsers' not found in /home2/almotaweron/public_html/pharmacy/app/Actions/Fortify/CreateNewUser.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Actions/Fortify/CreateNewUser.php on line 11
+[29-Apr-2021 10:35:37 America/Chicago] PHP Fatal error:  Uncaught Error: Interface 'Laravel\Fortify\Contracts\CreatesNewUsers' not found in /home2/almotaweron/public_html/pharmacy/app/Actions/Fortify/CreateNewUser.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Actions/Fortify/CreateNewUser.php on line 11
+[29-Apr-2021 10:35:39 America/Chicago] PHP Fatal error:  Uncaught Error: Interface 'Laravel\Fortify\Contracts\ResetsUserPasswords' not found in /home2/almotaweron/public_html/pharmacy/app/Actions/Fortify/ResetUserPassword.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Actions/Fortify/ResetUserPassword.php on line 9
+[29-Apr-2021 10:35:41 America/Chicago] PHP Fatal error:  Uncaught Error: Interface 'Laravel\Fortify\Contracts\ResetsUserPasswords' not found in /home2/almotaweron/public_html/pharmacy/app/Actions/Fortify/ResetUserPassword.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Actions/Fortify/ResetUserPassword.php on line 9
+[29-Apr-2021 10:35:43 America/Chicago] PHP Fatal error:  Uncaught Error: Interface 'Laravel\Fortify\Contracts\UpdatesUserPasswords' not found in /home2/almotaweron/public_html/pharmacy/app/Actions/Fortify/UpdateUserPassword.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Actions/Fortify/UpdateUserPassword.php on line 9
+[29-Apr-2021 10:35:45 America/Chicago] PHP Fatal error:  Uncaught Error: Interface 'Laravel\Fortify\Contracts\UpdatesUserPasswords' not found in /home2/almotaweron/public_html/pharmacy/app/Actions/Fortify/UpdateUserPassword.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Actions/Fortify/UpdateUserPassword.php on line 9
+[29-Apr-2021 10:35:46 America/Chicago] PHP Fatal error:  Uncaught Error: Interface 'Laravel\Fortify\Contracts\UpdatesUserProfileInformation' not found in /home2/almotaweron/public_html/pharmacy/app/Actions/Fortify/UpdateUserProfileInformation.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Actions/Fortify/UpdateUserProfileInformation.php on line 10
+[29-Apr-2021 10:35:48 America/Chicago] PHP Fatal error:  Uncaught Error: Interface 'Laravel\Fortify\Contracts\UpdatesUserProfileInformation' not found in /home2/almotaweron/public_html/pharmacy/app/Actions/Fortify/UpdateUserProfileInformation.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Actions/Fortify/UpdateUserProfileInformation.php on line 10
+[29-Apr-2021 17:09:41 America/Chicago] PHP Fatal error:  Uncaught Error: Interface 'Laravel\Fortify\Contracts\CreatesNewUsers' not found in /home2/almotaweron/public_html/pharmacy/app/Actions/Fortify/CreateNewUser.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Actions/Fortify/CreateNewUser.php on line 11
+[29-Apr-2021 17:09:43 America/Chicago] PHP Fatal error:  Uncaught Error: Interface 'Laravel\Fortify\Contracts\CreatesNewUsers' not found in /home2/almotaweron/public_html/pharmacy/app/Actions/Fortify/CreateNewUser.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Actions/Fortify/CreateNewUser.php on line 11
+[29-Apr-2021 17:09:45 America/Chicago] PHP Fatal error:  Uncaught Error: Interface 'Laravel\Fortify\Contracts\ResetsUserPasswords' not found in /home2/almotaweron/public_html/pharmacy/app/Actions/Fortify/ResetUserPassword.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Actions/Fortify/ResetUserPassword.php on line 9
+[29-Apr-2021 17:09:47 America/Chicago] PHP Fatal error:  Uncaught Error: Interface 'Laravel\Fortify\Contracts\ResetsUserPasswords' not found in /home2/almotaweron/public_html/pharmacy/app/Actions/Fortify/ResetUserPassword.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Actions/Fortify/ResetUserPassword.php on line 9
+[29-Apr-2021 17:09:48 America/Chicago] PHP Fatal error:  Uncaught Error: Interface 'Laravel\Fortify\Contracts\UpdatesUserPasswords' not found in /home2/almotaweron/public_html/pharmacy/app/Actions/Fortify/UpdateUserPassword.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Actions/Fortify/UpdateUserPassword.php on line 9
+[29-Apr-2021 17:09:51 America/Chicago] PHP Fatal error:  Uncaught Error: Interface 'Laravel\Fortify\Contracts\UpdatesUserPasswords' not found in /home2/almotaweron/public_html/pharmacy/app/Actions/Fortify/UpdateUserPassword.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Actions/Fortify/UpdateUserPassword.php on line 9
+[29-Apr-2021 17:09:52 America/Chicago] PHP Fatal error:  Uncaught Error: Interface 'Laravel\Fortify\Contracts\UpdatesUserProfileInformation' not found in /home2/almotaweron/public_html/pharmacy/app/Actions/Fortify/UpdateUserProfileInformation.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Actions/Fortify/UpdateUserProfileInformation.php on line 10
+[29-Apr-2021 17:09:54 America/Chicago] PHP Fatal error:  Uncaught Error: Interface 'Laravel\Fortify\Contracts\UpdatesUserProfileInformation' not found in /home2/almotaweron/public_html/pharmacy/app/Actions/Fortify/UpdateUserProfileInformation.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Actions/Fortify/UpdateUserProfileInformation.php on line 10

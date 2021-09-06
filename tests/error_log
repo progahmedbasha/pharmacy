@@ -1,0 +1,524 @@
+[25-Apr-2021 10:38:19 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[25-Apr-2021 10:38:20 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[25-Apr-2021 11:20:47 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[25-Apr-2021 11:20:48 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[25-Apr-2021 11:57:40 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[25-Apr-2021 11:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[25-Apr-2021 12:36:13 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[25-Apr-2021 12:36:15 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[25-Apr-2021 13:13:08 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[25-Apr-2021 13:13:10 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[25-Apr-2021 13:55:33 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[25-Apr-2021 13:55:35 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[25-Apr-2021 14:34:13 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[25-Apr-2021 14:34:14 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[25-Apr-2021 15:13:21 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[25-Apr-2021 15:13:23 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[25-Apr-2021 15:56:34 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[25-Apr-2021 15:56:36 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[25-Apr-2021 16:35:58 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[25-Apr-2021 16:35:59 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[25-Apr-2021 19:59:16 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[25-Apr-2021 19:59:18 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[26-Apr-2021 18:38:22 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[26-Apr-2021 18:38:23 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[26-Apr-2021 19:17:27 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[26-Apr-2021 19:17:29 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[26-Apr-2021 20:13:14 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[26-Apr-2021 20:13:16 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[26-Apr-2021 22:21:47 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[26-Apr-2021 22:21:48 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[26-Apr-2021 22:59:06 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[26-Apr-2021 22:59:08 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[27-Apr-2021 00:23:39 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[27-Apr-2021 00:23:41 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[27-Apr-2021 01:53:09 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[27-Apr-2021 01:53:11 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[27-Apr-2021 02:26:21 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[27-Apr-2021 02:26:23 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[27-Apr-2021 10:43:27 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[27-Apr-2021 17:39:49 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[27-Apr-2021 17:39:51 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[27-Apr-2021 18:15:29 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[27-Apr-2021 18:15:31 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[27-Apr-2021 18:56:04 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[27-Apr-2021 18:56:06 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[27-Apr-2021 19:34:46 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[27-Apr-2021 19:34:48 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[27-Apr-2021 20:21:24 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[27-Apr-2021 20:21:26 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[27-Apr-2021 21:12:52 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[27-Apr-2021 21:12:53 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[27-Apr-2021 22:11:54 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[27-Apr-2021 22:11:56 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[27-Apr-2021 22:43:58 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[27-Apr-2021 22:43:59 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[27-Apr-2021 23:40:29 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[27-Apr-2021 23:40:30 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[28-Apr-2021 00:36:17 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[28-Apr-2021 00:36:19 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[28-Apr-2021 01:29:39 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[28-Apr-2021 01:29:40 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[28-Apr-2021 02:06:56 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[28-Apr-2021 02:06:58 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[28-Apr-2021 03:26:45 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[28-Apr-2021 03:26:47 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[28-Apr-2021 04:30:04 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[28-Apr-2021 04:30:05 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[28-Apr-2021 05:18:11 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[28-Apr-2021 05:18:12 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[28-Apr-2021 08:23:04 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[28-Apr-2021 08:23:06 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[28-Apr-2021 08:55:39 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[28-Apr-2021 08:55:41 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[28-Apr-2021 09:53:52 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[28-Apr-2021 09:53:53 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[28-Apr-2021 12:52:56 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[28-Apr-2021 12:52:58 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[28-Apr-2021 14:19:38 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[28-Apr-2021 14:19:40 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[28-Apr-2021 14:59:48 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[28-Apr-2021 14:59:49 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[28-Apr-2021 16:48:45 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[28-Apr-2021 16:48:46 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[28-Apr-2021 17:26:18 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[28-Apr-2021 17:26:19 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[28-Apr-2021 18:14:36 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[28-Apr-2021 18:14:38 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[28-Apr-2021 18:53:02 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[28-Apr-2021 18:53:04 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[28-Apr-2021 22:32:41 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[28-Apr-2021 22:32:42 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[28-Apr-2021 23:10:21 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[28-Apr-2021 23:10:22 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[28-Apr-2021 23:43:19 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[28-Apr-2021 23:43:21 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[29-Apr-2021 00:23:33 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[29-Apr-2021 00:23:34 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[29-Apr-2021 01:07:49 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[29-Apr-2021 01:07:50 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[29-Apr-2021 01:45:47 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[29-Apr-2021 01:45:48 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[29-Apr-2021 02:28:58 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[29-Apr-2021 02:29:00 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[29-Apr-2021 03:04:08 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[29-Apr-2021 03:04:10 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[29-Apr-2021 03:44:17 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[29-Apr-2021 03:44:19 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[29-Apr-2021 04:24:35 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[29-Apr-2021 04:24:37 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[29-Apr-2021 05:03:56 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[29-Apr-2021 05:03:58 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[29-Apr-2021 08:55:58 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[29-Apr-2021 08:56:00 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[29-Apr-2021 09:35:10 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[29-Apr-2021 09:35:11 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[29-Apr-2021 10:53:56 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[29-Apr-2021 10:53:58 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[29-Apr-2021 11:41:47 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[29-Apr-2021 11:41:49 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[29-Apr-2021 12:16:57 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[29-Apr-2021 12:16:59 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[29-Apr-2021 12:54:18 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[29-Apr-2021 12:54:20 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[29-Apr-2021 13:38:47 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[29-Apr-2021 13:38:49 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[29-Apr-2021 14:15:15 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[29-Apr-2021 14:15:17 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[29-Apr-2021 14:53:59 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[29-Apr-2021 14:54:01 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[29-Apr-2021 15:34:24 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7
+[29-Apr-2021 15:34:26 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/tests/TestCase.php on line 7

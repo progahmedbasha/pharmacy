@@ -1,0 +1,88 @@
+[29-Apr-2021 09:06:11 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home2/almotaweron/public_html/pharmacy/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Exceptions/Handler.php on line 8
+[29-Apr-2021 09:06:13 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home2/almotaweron/public_html/pharmacy/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Exceptions/Handler.php on line 8
+[29-Apr-2021 09:45:21 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home2/almotaweron/public_html/pharmacy/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Exceptions/Handler.php on line 8
+[29-Apr-2021 09:45:23 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home2/almotaweron/public_html/pharmacy/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Exceptions/Handler.php on line 8
+[29-Apr-2021 11:03:53 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home2/almotaweron/public_html/pharmacy/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Exceptions/Handler.php on line 8
+[29-Apr-2021 11:03:55 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home2/almotaweron/public_html/pharmacy/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Exceptions/Handler.php on line 8
+[29-Apr-2021 11:51:20 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home2/almotaweron/public_html/pharmacy/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Exceptions/Handler.php on line 8
+[29-Apr-2021 11:51:21 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home2/almotaweron/public_html/pharmacy/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Exceptions/Handler.php on line 8
+[29-Apr-2021 12:30:16 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home2/almotaweron/public_html/pharmacy/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Exceptions/Handler.php on line 8
+[29-Apr-2021 12:30:18 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home2/almotaweron/public_html/pharmacy/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Exceptions/Handler.php on line 8
+[29-Apr-2021 13:05:21 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home2/almotaweron/public_html/pharmacy/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Exceptions/Handler.php on line 8
+[29-Apr-2021 13:05:23 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home2/almotaweron/public_html/pharmacy/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Exceptions/Handler.php on line 8
+[29-Apr-2021 13:48:58 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home2/almotaweron/public_html/pharmacy/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Exceptions/Handler.php on line 8
+[29-Apr-2021 13:49:00 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home2/almotaweron/public_html/pharmacy/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Exceptions/Handler.php on line 8
+[29-Apr-2021 14:31:12 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home2/almotaweron/public_html/pharmacy/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Exceptions/Handler.php on line 8
+[29-Apr-2021 14:31:14 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home2/almotaweron/public_html/pharmacy/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Exceptions/Handler.php on line 8
+[29-Apr-2021 15:45:23 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home2/almotaweron/public_html/pharmacy/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Exceptions/Handler.php on line 8
+[29-Apr-2021 15:45:25 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home2/almotaweron/public_html/pharmacy/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Exceptions/Handler.php on line 8
+[29-Apr-2021 16:25:40 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home2/almotaweron/public_html/pharmacy/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Exceptions/Handler.php on line 8
+[29-Apr-2021 16:25:41 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home2/almotaweron/public_html/pharmacy/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Exceptions/Handler.php on line 8
+[29-Apr-2021 17:04:51 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home2/almotaweron/public_html/pharmacy/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Exceptions/Handler.php on line 8
+[29-Apr-2021 17:04:53 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home2/almotaweron/public_html/pharmacy/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Exceptions/Handler.php on line 8

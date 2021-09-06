@@ -1,0 +1,48 @@
+[29-Apr-2021 09:51:31 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\View\Component' not found in /home2/almotaweron/public_html/pharmacy/app/View/Components/AppLayout.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/View/Components/AppLayout.php on line 7
+[29-Apr-2021 09:51:33 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\View\Component' not found in /home2/almotaweron/public_html/pharmacy/app/View/Components/AppLayout.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/View/Components/AppLayout.php on line 7
+[29-Apr-2021 09:51:34 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\View\Component' not found in /home2/almotaweron/public_html/pharmacy/app/View/Components/GuestLayout.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/View/Components/GuestLayout.php on line 7
+[29-Apr-2021 09:51:35 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\View\Component' not found in /home2/almotaweron/public_html/pharmacy/app/View/Components/GuestLayout.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/View/Components/GuestLayout.php on line 7
+[29-Apr-2021 10:37:43 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\View\Component' not found in /home2/almotaweron/public_html/pharmacy/app/View/Components/AppLayout.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/View/Components/AppLayout.php on line 7
+[29-Apr-2021 10:37:44 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\View\Component' not found in /home2/almotaweron/public_html/pharmacy/app/View/Components/AppLayout.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/View/Components/AppLayout.php on line 7
+[29-Apr-2021 10:37:45 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\View\Component' not found in /home2/almotaweron/public_html/pharmacy/app/View/Components/GuestLayout.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/View/Components/GuestLayout.php on line 7
+[29-Apr-2021 10:37:46 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\View\Component' not found in /home2/almotaweron/public_html/pharmacy/app/View/Components/GuestLayout.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/View/Components/GuestLayout.php on line 7
+[29-Apr-2021 17:11:40 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\View\Component' not found in /home2/almotaweron/public_html/pharmacy/app/View/Components/AppLayout.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/View/Components/AppLayout.php on line 7
+[29-Apr-2021 17:11:41 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\View\Component' not found in /home2/almotaweron/public_html/pharmacy/app/View/Components/AppLayout.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/View/Components/AppLayout.php on line 7
+[29-Apr-2021 17:11:43 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\View\Component' not found in /home2/almotaweron/public_html/pharmacy/app/View/Components/GuestLayout.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/View/Components/GuestLayout.php on line 7
+[29-Apr-2021 17:11:45 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\View\Component' not found in /home2/almotaweron/public_html/pharmacy/app/View/Components/GuestLayout.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/View/Components/GuestLayout.php on line 7

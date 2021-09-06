@@ -1,0 +1,168 @@
+[29-Apr-2021 09:50:45 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/Authenticate.php on line 7
+[29-Apr-2021 09:50:46 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/Authenticate.php on line 7
+[29-Apr-2021 09:50:51 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/EncryptCookies.php on line 7
+[29-Apr-2021 09:50:52 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/EncryptCookies.php on line 7
+[29-Apr-2021 09:50:54 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[29-Apr-2021 09:50:55 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[29-Apr-2021 09:50:58 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/TrimStrings.php on line 7
+[29-Apr-2021 09:50:59 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/TrimStrings.php on line 7
+[29-Apr-2021 09:51:00 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Middleware\TrustHosts' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/TrustHosts.php on line 7
+[29-Apr-2021 09:51:02 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Middleware\TrustHosts' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/TrustHosts.php on line 7
+[29-Apr-2021 09:51:04 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Fideloper\Proxy\TrustProxies' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/TrustProxies.php on line 8
+[29-Apr-2021 09:51:07 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Fideloper\Proxy\TrustProxies' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/TrustProxies.php on line 8
+[29-Apr-2021 09:51:08 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[29-Apr-2021 09:51:11 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[29-Apr-2021 10:37:02 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/Authenticate.php on line 7
+[29-Apr-2021 10:37:04 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/Authenticate.php on line 7
+[29-Apr-2021 10:37:08 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/EncryptCookies.php on line 7
+[29-Apr-2021 10:37:10 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/EncryptCookies.php on line 7
+[29-Apr-2021 10:37:13 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[29-Apr-2021 10:37:14 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[29-Apr-2021 10:37:17 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/TrimStrings.php on line 7
+[29-Apr-2021 10:37:19 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/TrimStrings.php on line 7
+[29-Apr-2021 10:37:20 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Middleware\TrustHosts' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/TrustHosts.php on line 7
+[29-Apr-2021 10:37:23 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Middleware\TrustHosts' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/TrustHosts.php on line 7
+[29-Apr-2021 10:37:23 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Fideloper\Proxy\TrustProxies' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/TrustProxies.php on line 8
+[29-Apr-2021 10:37:25 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Fideloper\Proxy\TrustProxies' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/TrustProxies.php on line 8
+[29-Apr-2021 10:37:26 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[29-Apr-2021 10:37:27 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[29-Apr-2021 17:11:00 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/Authenticate.php on line 7
+[29-Apr-2021 17:11:02 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/Authenticate.php on line 7
+[29-Apr-2021 17:11:05 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/EncryptCookies.php on line 7
+[29-Apr-2021 17:11:07 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/EncryptCookies.php on line 7
+[29-Apr-2021 17:11:09 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[29-Apr-2021 17:11:10 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[29-Apr-2021 17:11:13 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/TrimStrings.php on line 7
+[29-Apr-2021 17:11:15 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/TrimStrings.php on line 7
+[29-Apr-2021 17:11:16 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Middleware\TrustHosts' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/TrustHosts.php on line 7
+[29-Apr-2021 17:11:19 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Middleware\TrustHosts' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/TrustHosts.php on line 7
+[29-Apr-2021 17:11:20 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Fideloper\Proxy\TrustProxies' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/TrustProxies.php on line 8
+[29-Apr-2021 17:11:21 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Fideloper\Proxy\TrustProxies' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/TrustProxies.php on line 8
+[29-Apr-2021 17:11:22 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[29-Apr-2021 17:11:24 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/almotaweron/public_html/pharmacy/app/Http/Middleware/VerifyCsrfToken.php on line 7
