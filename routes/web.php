@@ -367,3 +367,12 @@ Route::resource('MainSettings', 'MainSettingsController');
 //tax report
 Route::get('TaxReport', 'AdminTaxesReport@index')->name('TaxReport');
 
+// Route::get('managereport', 'AdminTaxesReport@index')->name('TaxReport');
+
+Route::get('managereport', function () {
+        return view('admin/reports/managereport');
+    })->name('managereport');
+
+Route::resource('inventory', 'Report\InventoryReportController');
+// Route::get('addinventory/{store_id}', 'Report\InventoryReportController@inventory')->name('addinventory');
+// Route::get('x/{inventory_id}', 'Report\InventoryReportController@showinv')->name('x');

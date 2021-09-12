@@ -40,25 +40,38 @@
   	<div class="col-md-6">
       <form method="get" class="form-inline" action="{{url('managebill')}}/{{$paginationVal}}">
           <input class="form-control input-lg" name="search_val" type="text" >
-          <select class="form-control" name="payment_type">
-              <option value="0">----كل الفواتير----</option>
+          <select class="form-control" name="is_paid">
+              <option value="">----كل الفواتير----</option>
               <option value="1" @if(Request::get('payment_type') == 1) selected @endif>مسددة بالكامل</option>
               <option value="2" @if(Request::get('payment_type') == 2) selected @endif> لم تسدد </option>
               <option value="3" @if(Request::get('payment_type') == 3) selected @endif> مسدد جزء </option>
           </select>
+
+          <select class="form-control" name="user_id">
+              <option value="">أنشئ بواسطة</option>
+              @foreach($users as $user)
+              <option value="{{$user->id}}" @if(Request::get('user_id') == $user->id) selected @endif> {{$user->name}} </option>
+              @endforeach
+          </select>
+
+          <select class="form-control" name="cus_id">
+              <option value="">إسم العميل </option>
+               @foreach($customers as $customer)
+              <option value="{{$customer->id}}" @if(Request::get('cus_id') == $customer->id) selected @endif> {{$customer->name}} </option>
+              @endforeach
+          </select>
+
+          <label>من <input class="form-control input"  name="date_from" type="date" ></label>
+
+            <label> إلي:<input class="form-control input"  name="date_to" type="date" ></label>
+           
+
           <button type="submit" class="btn btn-warning"><i class="fa fa-search"></i></button>
           <a href="{{url('managebill')}}/{{$paginationVal}}" class="btn btn-danger" style="margin-top:0px;"><i class="fa fa-times"></i></a>
       </form>
 </div>
 
 
-<div class="col-md-6">
-      <form method="get" class="form-inline" action="{{url('managebill')}}/{{$paginationVal}}">
-  	 من:&nbsp;<input  name="date_from" type="date" required><br>
-  	 إلي: <input  name="date_to" type="date" required>
-     <button type="submit">بحث</button>
-   </form>
-</div>
 
         <div class="col-md-3">
             <div class="dropdown">

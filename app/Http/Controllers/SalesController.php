@@ -114,7 +114,39 @@ class SalesController extends Controller
 
     public function show_all_bills($paginationVal,Request $request){
 
+        $users = User::where('user_type_id',2)->orWhere('user_type_id',3)->get();
+        $customers = Customer::all();
 
+        $bills = SaleBill::with('user')->with('customer');
+
+        if(isset($request->search))
+            $bills->where('bill_number', $request->search_val);
+        if(isset($request->cus_id))
+            $bills->where('customer_id', $request->cus_id);
+        if(isset($request->user_id))
+            $bills->where('user_id', $request->user_id);
+        if(isset($request->date_from) && isset($request->date_to))
+            $bills->whereBetween(DB::raw('DATE(created_at)'), [$request->date_from,$request->date_to]);
+
+        if(isset($request->is_paid)){
+            if($request->is_paid == 1) //مسددة بالكامل
+            {
+                $bills->where('remaining_amount', 0);
+            }
+            elseif($request->is_paid == 2) //لم تسدد
+            {
+                $bills->whereColumn('remaining_amount', 'total_final');
+            }
+            elseif($request->is_paid == 3) //مسددة بالكامل
+            {
+                $bills->whereColumn('remaining_amount', '<', 'total_final')
+                ->where('remaining_amount', '!=', 0);
+            }
+        }
+
+
+        $bills = $bills->paginate($paginationVal);      
+/*
         if(isset($request)){
 
             $total_returns_data = new ReturnSaleBill();
@@ -158,6 +190,7 @@ class SalesController extends Controller
                 {
                     $total_final_data = $total_final_data->where('bill_number', $request->search_val);
                     $remaining_amount_data = $remaining_amount_data->where('bill_number', $request->search_val);
+
                 }
 
                 if(isset($request->payment_type) && $request->payment_type != 0 )
@@ -233,9 +266,17 @@ class SalesController extends Controller
         }
 
         $paid_amount = $total_final - $remaining_amount;
+*/
+
+        $total_final = 0;
+        $paid_amount = 0;
+        $remaining_amount = 0;
+        $total_returns = 0;
 
         return view('admin.sale.managebill',compact('bills' ,
             'paginationVal' ,
+            'customers',
+            'users',
             'total_final' ,
             'paid_amount',
             'remaining_amount',

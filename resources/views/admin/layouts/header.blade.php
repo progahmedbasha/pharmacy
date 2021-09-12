@@ -278,7 +278,7 @@ th,td{
                             <ul class="submenu-angle" aria-expanded="false">
                                 <li><a  href="{{url('productservice')}}/10"><span class="mini-sub-pro">{{ __('adminmenu.product_service') }}</span></a></li>
                                 <li><a  href="{{url('storemanage')}}/10"><span class="mini-sub-pro">{{ __('adminmenu.manage_warehouse') }}</span></a></li>
-                                <li><a  href="{{url('inventorylist')}}"><span class="mini-sub-pro">{{ __('adminmenu.manage_inventory') }}</span></a></li>
+                                <li><a  href="{{url('managereport')}}"><span class="mini-sub-pro">{{ __('adminmenu.manage_inventory') }}</span></a></li>
                                 <li><a  href="{{url('storesetting')}}"><span class="mini-sub-pro">{{ __('adminmenu.store_settings') }}</span></a></li>
                             </ul>
                         </li>
@@ -332,7 +332,6 @@ th,td{
                                 <li><a  href="{{route('shortSalesReport')}}"><span class="mini-sub-pro"> تقرير مبيعات ملخص</span></a></li>
                                 <li><a  href="{{route('purchaseReport', 10)}}"><span class="mini-sub-pro"> {{ __('adminmenu.purchase') }}</span></a></li>
                                 <li><a  href="{{route('MostSoldItemsReport', 10)}}"><span class="mini-sub-pro"> {{ __('adminmenu.most_sold_products') }}</span></a></li>
-                                <li><a  href="{{route('managereport')}}"><span class="mini-sub-pro"> تقرير جديدة </span></a></li>
                                 <li><a  href="#"><span class="mini-sub-pro"> {{ __('adminmenu.sms') }}</span></a></li>
                                 <li><a  href="#"><span class="mini-sub-pro"> {{ __('adminmenu.salary') }}</span></a></li>
                                 <li><a  href="#"><span class="mini-sub-pro"> {{ __('adminmenu.attendance') }}</span></a></li>

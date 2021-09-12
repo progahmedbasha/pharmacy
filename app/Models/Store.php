@@ -25,6 +25,12 @@ class Store extends Model
 	{
    		return $this->morphOne(TreeAccount::class,'tree_accountable');
 	}
+
+  public function inventories()
+  {
+      return $this->hasMany('App\Models\Inventory');
+  }
+
 	public function scopeWhenSearch($query,$search){
         return $query->when($search,function($q)use($search){
             return $q->where('store_code',$search)
