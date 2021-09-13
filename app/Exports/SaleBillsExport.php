@@ -20,10 +20,11 @@ class SaleBillsExport implements FromView
     // }
     public function view(): View
     {
-    	$page = $this->paginationVal;
+    	
         return view('admin/exports/salebill_export', [
             'bills' =>SaleBill::with('user')->with('customer')->get(),
             // 'total_final'  => Product::sum('sale_price') 
+
         ]);
     }
 }
