@@ -71,7 +71,7 @@
       </form>
 </div>
 
-<button class="btn btn-primary dropdown-toggle"  type="button" ><a href="{{ url('salebill.export') }}" >Export</a></button>
+<button class="btn btn-primary dropdown-toggle"  type="button" ><a href="{{ route('salebill.export') }}" >Export</a></button>
 
         <div class="col-md-3">
             <div class="dropdown">

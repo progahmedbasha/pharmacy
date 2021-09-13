@@ -11,6 +11,7 @@ use Maatwebsite\Excel\Concerns\FromView;
 class SaleBillsExport implements FromView
 {
 
+
     /**
     * @return \Illuminate\Support\Collection
     */
@@ -20,6 +21,7 @@ class SaleBillsExport implements FromView
     // }
     public function view(): View
     {
+
     	
         return view('admin/exports/salebill_export', [
             'bills' =>SaleBill::with('user')->with('customer')->get(),
