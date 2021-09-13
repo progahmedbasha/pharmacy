@@ -24,6 +24,8 @@ use App\Models\User;
 use App\Models\SaleBillItemProduct;
 use App\Models\SaleBillPayment;
 use App\Models\ReturnSaleBill;
+use App\Exports\SaleBillsExport;
+use Maatwebsite\Excel\Facades\Excel;
 
 class SalesController extends Controller
 {
@@ -700,6 +702,11 @@ class SalesController extends Controller
         $find->save();
 
         return redirect()->route('returnbilllist');
+    }
+
+    public function export() 
+    {
+        return Excel::download(new SaleBillsExport, 'salebill.xlsx');
     }
 
 

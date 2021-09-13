@@ -376,3 +376,5 @@ Route::get('managereport', function () {
 Route::resource('inventory', 'Report\InventoryReportController');
 // Route::get('addinventory/{store_id}', 'Report\InventoryReportController@inventory')->name('addinventory');
 // Route::get('x/{inventory_id}', 'Report\InventoryReportController@showinv')->name('x');
+
+Route::get('salebill/export/', 'SalesController@export')->name('salebill.export') ;
